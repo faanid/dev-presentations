@@ -53,6 +53,7 @@ const { data: posts } = useSWR('/api/posts', fetcher);
 ---
 
 نکته: درخواست دوم فقط زمانی اجرا میشه که اطلاعات کاربر از درخواست اول آماده شده باشه. این رفتار رو توی fetch یا axios باید دستی مدیریت کنی، ولی SWR خیلی راحت این کار رو انجام میده.
+source : https://swr.vercel.app/blog/swr-v2.en-US#optimistic-ui
 
 
 
