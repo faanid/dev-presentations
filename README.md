@@ -1,2 +1,66 @@
-# dev-presentations
-This repository contains a collection of presentations, code examples, and resoures used in technical talks. Topics covered include modern web development tools, frameworks, and techniques.
+# Repository Description
+
+**Repository Name:** Dev Presentations and Workshops  
+**Description:**
+This repository contains a collection of presentations, code examples, and resources used in technical talks and workshops. Topics covered include modern web development tools, frameworks, and techniques such as React, TypeScript, and SWR. The goal is to provide developers with practical insights and hands-on examples to enhance their skills.
+
+---
+
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Topics Covered](#topics-covered)
+3. [Getting Started](#getting-started)
+4. [Presentations and Resources](#presentations-and-resources)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+---
+
+## Introduction
+Welcome to the **Dev Presentations and Workshops** repository! This repository is designed to be a centralized resource for developers, covering various topics in modern web development. Whether you're a beginner or an experienced developer, you'll find useful examples and presentations here.
+
+---
+
+## Topics Covered
+- **React and TypeScript** - Understanding type safety and best practices in React applications.
+- **SWR (React Hooks for Data Fetching)** - Efficient data fetching and caching strategies.
+- **Modern Web Development Tools** - Frameworks and libraries to streamline development.
+- **Practical Coding Examples** - Hands-on examples to reinforce learning.
+
+---
+
+## Getting Started
+### Clone the Repository
+```bash
+git clone https://github.com/username/repository-name.git
+cd repository-name
+```
+
+### Install Dependencies (if applicable)
+```bash
+npm install
+```
+
+### Run Examples
+Refer to individual topic folders for specific instructions.
+
+---
+
+## Presentations and Resources
+### 1. React and TypeScript
+- **Slides:** [React with TypeScript PDF](./docs/react-typescript.pdf)
+- **Code Examples:** [React TS Examples](./examples/react-ts)
+
+### 2. SWR - React Hooks for Data Fetching
+- **Slides:** [SWR Presentation PDF](./docs/swr-presentation.pdf)
+- **Code Examples:** [SWR Examples](./examples/swr)
+
+---
+
+## Contributing
+We welcome contributions! Feel free to open issues, submit pull requests, or suggest new topics. Please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+---
+
+## License
+This repository is licensed under the [MIT License](LICENSE). Feel free to use and share the content with proper attribution.
