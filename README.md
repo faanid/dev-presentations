@@ -42,11 +42,11 @@ Refer to individual topic folders for specific instructions.
 
 ## Presentations and Resources
 ### 1.ReactTypes in TypeScript
-- **Slides:** [React with TypeScript PDF](./docs/topics/react_types_guide.md)
+- **Slides:** [React with TypeScript](./docs/topics/react_types_guide.md)
 - **Code Examples:** [React TS Examples](./docs/example/React.Profiler.js)
 
 ### 2. SWR
-- **Slides:** [SWR Presentation PDF](./docs/topics/swr_guide_documentation.md)
+- **Slides:** [SWR Presentation](./docs/topics/swr_guide_documentation.md)
 - **Code Examples:** [SWR Examples](./examples/OptimisticUI_SWR.js)
 
 ---
