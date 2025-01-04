@@ -43,7 +43,7 @@ Refer to individual topic folders for specific instructions.
 ## Presentations and Resources
 ### 1.ReactTypes in TypeScript
 - **Slides:** [React with TypeScript](./docs/topics/react_types_guide.md)
-- **Code Examples:** [React TS Examples](./docs/example/React.Profiler.js)
+- **Code Examples:** [React TS Examples](./docs/example/React_Profiler.js)
 
 ### 2. SWR
 - **Slides:** [SWR Presentation](./docs/topics/swr_guide_documentation.md)
