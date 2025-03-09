@@ -49,6 +49,9 @@ Refer to individual topic folders for specific instructions.
 - **Slides:** [SWR Presentation](./docs/topics/swr_guide_documentation.md)
 - **Code Examples:** [SWR Examples](./examples/OptimisticUI_SWR.js)
 
+### 3. Heap and Stack Memory
+- **Slides:** [SWR Presentation](./docs/topics/heap_stack_memory.md)
+
 ---
 
 ## Contributing
